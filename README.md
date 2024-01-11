@@ -4,7 +4,7 @@ Documentation: https://deluxedevelopment.gitbook.io/api-docs/
 
 
 ## Dependency
-
+- oxmysql: https://github.com/overextended/oxmysql
 - ox_lib : https://github.com/overextended/ox_lib
 
 ## How to run the script?
