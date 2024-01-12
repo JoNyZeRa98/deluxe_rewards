@@ -1,4 +1,5 @@
 # Deluxe-Rewards
+Discord support: https://discord.gg/pFUT9TYNUZ
 Deluxe-Rewards is a very optimized script that will allow your players to receive in-game rewards for playing on your server.
 Documentation: https://deluxedevelopment.gitbook.io/api-docs/
 
