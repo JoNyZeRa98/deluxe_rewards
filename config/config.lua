@@ -46,7 +46,6 @@ Config.Commands = {
 	HideUICommand = 'hidereward' -- Command to hide the reward UI
 }
 
-Config.InventoryType = 'ox' -- Available esx, ox
 Config.NotificationType = 'ox' -- Available esx, ox , okok , custom (If you set custom check below the function SetCustomNotification)
 Config.OxAlignNotifications = 'center-left' -- Available: 'top' or 'top-right' or 'top-left' or 'bottom' or 'bottom-right' or 'bottom-left' or 'center-right' or 'center-left' [You must have Config.Notificationtype = 'ox']
 
